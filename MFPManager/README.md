@@ -4,13 +4,6 @@
 Aplicativo que extende o uso da versão web V 0.0.8
 
 ### Change History
-* 20/08/2019:
-   * added languaje > "fr"
-   * added logo in plugin
-   * changed short cut, of "Ctrl-Shift-O-P" to "Ctrl-Shift-Q"
-* 19/08/2019:
-   * added languaje > "es", "it"
-   * changed short cut, of "Ctrl-Shift-Alt-R" to "Ctrl-Shift-O-P"
 * 16/08/2019:
     * Bug fixed [Correções] 
         * Pesquisa no QR-Code
